@@ -4,7 +4,7 @@ defmodule COS.Mixfile do
   def project() do
     [
       app: :cos,
-      version: "0.7.0",
+      version: "0.7.1",
       elixir: "~> 1.7",
       description: "COS China Ocean Shipping Protocol",
       package: package(),
@@ -14,7 +14,7 @@ defmodule COS.Mixfile do
 
   def package do
     [
-      files: ~w(doc mix.exs LICENSE),
+      files: ~w(doc include priv src mix.exs LICENSE),
       licenses: ["ISC"],
       maintainers: ["Namdak Tonpa"],
       name: :cos,

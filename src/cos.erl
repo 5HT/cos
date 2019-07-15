@@ -19,11 +19,10 @@ main() ->
     end || File <- filelib:wildcard("priv/*.txt") ].
 
 decode(<<Id:2/binary,Type:3/binary,Desc:20/binary,Payer:2/binary,Sender:8/binary,
-         Receiver:8/binary,Receiver1:8/binary,Receiver2:8/binary,Receiver3:8/binary,Receiver4:8/binary,
-         Time:10/binary,TimeId:1/binary,SenderC:5/binary,
-         ReceiverC:5/binary,ReceiverC1:5/binary,ReceiverC2:5/binary,ReceiverC3:5/binary,ReceiverC4:5/binary,
-         FileCreator:5/binary,PortCreator:5/binary,
-         Rest/binary>>) when Id == <<"00">> ->
+         Receiver:8/binary,Receiver1:8/binary,Receiver2:8/binary,Receiver3:8/binary,
+         Receiver4:8/binary,Time:10/binary,TimeId:1/binary,SenderC:5/binary,
+         ReceiverC:5/binary,ReceiverC1:5/binary,ReceiverC2:5/binary,ReceiverC3:5/binary,
+         ReceiverC4:5/binary,FileCreator:5/binary,PortCreator:5/binary,Rest/binary>>) when Id == <<"00">> ->
   #'COS.00'{id=Id,type=t(Type),desc=t(Desc),payer=t(Payer),sender=t(Sender),
             receivers=[t(Receiver),t(Receiver1),t(Receiver2),t(Receiver3),t(Receiver4)],
             time=Time, time_id=TimeId,sender_c=t(SenderC),
@@ -40,18 +39,15 @@ decode(<<Id:2/binary,Filler1:3/binary,BLNo:16/binary,SoNo:16/binary,PreCode:6/bi
          PreName:20/binary,PreVoyage:5/binary,Receipt:5/binary,Loading:5/binary,
          CFS:9/binary,Prepaid:1/binary,Trans:1/binary,Empty:1/binary,
          Date:6/binary,SCNo:12/binary,Quarantine:1/binary,Rest/binary>>) when Id == <<"12">> ->
-  #'COS.12'{id=Id,blno=t(BLNo),sono=t(SoNo),pre_code=t(PreCode),pre_name=t(PreName),pre_voyage=t(PreVoyage),
-            receipt=t(Receipt),loading=t(Loading),cfs=t(CFS),prepaid=Prepaid,trans=Trans,empty=Empty,
-            date=Date,scno=t(SCNo),qua=t(Quarantine)};
+  #'COS.12'{id=Id,blno=t(BLNo),sono=t(SoNo),pre_code=t(PreCode),pre_name=t(PreName),
+            pre_voyage=t(PreVoyage),receipt=t(Receipt),loading=t(Loading),cfs=t(CFS),
+            prepaid=Prepaid,trans=Trans,empty=Empty,date=Date,scno=t(SCNo),qua=t(Quarantine)};
 
 decode(<<Id:2/binary,Filler1:3/binary,Discharge:5/binary,DeliveryCode:5/binary,
          DeliveryName:20/binary,FinalCode:5/binary,FinalName:20/binary,
-         OID1:1/binary,OIDL1:5/binary,OIDR1:5/binary,
-         OID2:1/binary,OIDL2:5/binary,OIDR2:5/binary,
-         OID3:1/binary,OIDL3:5/binary,OIDR3:5/binary,
-         OID4:1/binary,OIDL4:5/binary,OIDR4:5/binary,
-         OID5:1/binary,OIDL5:5/binary,OIDR5:5/binary,
-         OID6:1/binary,OIDL6:5/binary,OIDR6:5/binary,
+         OID1:1/binary,OIDL1:5/binary,OIDR1:5/binary,OID2:1/binary,OIDL2:5/binary,OIDR2:5/binary,
+         OID3:1/binary,OIDL3:5/binary,OIDR3:5/binary,OID4:1/binary,OIDL4:5/binary,OIDR4:5/binary,
+         OID5:1/binary,OIDL5:5/binary,OIDR5:5/binary,OID6:1/binary,OIDL6:5/binary,OIDR6:5/binary,
          Rest/binary>>) when Id == <<"13">> ->
   #'COS.13'{id=Id,discharge=t(Discharge),delivery_code=t(DeliveryCode),delivery_name=t(DeliveryName),
             final_code=t(FinalCode),final_name=t(FinalName),options=[
@@ -107,14 +103,14 @@ decode(<<Id:2/binary,Filler:3/binary,No:3/binary,Container:11/binary,
             soc=t(Soc),cnt=t(Cnt),dg=t(DG),status=t(Status),item=t(Item),sid=t(Sid),
             packages=t(Pkgs),kind=t(Kind),cargo=t(Cargo),tare=t(Tare),measure=t(Measure),location=t(Loc)};
 
-decode(<<Id:2/binary,Filler:3/binary,No:2/binary,Code:3/binary,Remark:35/binary,
-         Payable:5/binary,Quantity:9/binary,Currency:3/binary,Rate:13/binary,Units:4/binary,Amount:3/binary,
-         Sign:1/binary,XRate:12/binary,XCurr:3/binary,XAmount1:8/binary,XAmount2:4/binary,XSign:1/binary,Prepaid:1/binary,
-         Rest/binary>>) when Id == <<"61">> ->
+decode(<<Id:2/binary,Filler:3/binary,No:2/binary,Code:3/binary,Remark:35/binary,Payable:5/binary,
+         Quantity:9/binary,Currency:3/binary,Rate:13/binary,Units:4/binary,Amount:3/binary,
+         Sign:1/binary,XRate:12/binary,XCurr:3/binary,XAmount1:8/binary,XAmount2:4/binary,
+         XSign:1/binary,Prepaid:1/binary,Rest/binary>>) when Id == <<"61">> ->
   #'COS.61'{id=Id,no=t(No),code=t(Code),remark=t(Remark),payable=t(Payable),quantity=t(Quantity),
             currency=t(Currency),rate=t(Rate),units=t(Units),amount=t(Amount),sign=t(Sign),
-            xchg_rate=t(XRate),
-            xchg_currency=t(XCurr),xchg_amount={t(XAmount1),t(XAmount2)},xchg_sign=t(XSign),prepaid=t(Prepaid)};
+            xchg_rate=t(XRate),xchg_currency=t(XCurr),xchg_amount={t(XAmount1),t(XAmount2)},
+            xchg_sign=t(XSign),prepaid=t(Prepaid)};
 
 decode(<<Id:2/binary,Filler:3/binary,
          R1:35/binary,R2:35/binary,R3:35/binary,Rest/binary>>) when Id == <<"71">> ->
@@ -128,7 +124,8 @@ decode(<<Id:2/binary,Filler:3/binary,
          R1:56/binary,R2:56/binary,Rest/binary>>) when Id == <<"73">> ->
   #'COS.73'{id=Id,remark={t(R1),t(R2)}};
 
-decode(<<Id:2/binary,Filler:3/binary,Place:5/binary,Date:30/binary,Prepaid:20/binary,Payable:20/binary,Rest/binary>>) when Id == <<"74">> ->
+decode(<<Id:2/binary,Filler:3/binary,Place:5/binary,Date:30/binary,Prepaid:20/binary,
+         Payable:20/binary,Rest/binary>>) when Id == <<"74">> ->
   #'COS.74'{id=Id,place=t(Place),date=t(Date),prepaid=t(Prepaid),payable=t(Payable)};
 
 decode(<<Id:2/binary,Filler:3/binary,Records:5/binary,Rest/binary>>) when Id == <<"99">> ->
