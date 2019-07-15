@@ -1,0 +1,376 @@
+00DOCSHIPPING DOCUMENT   BJAGTORT  COSCON                          1808161758LGRPIRBGVAR               AGTORT       3.1N        
+11        AVF   AS FRANZISKA        019N 000000000000                                                                           
+12   COSU6166045560                  RVS   EVER SIGMA          081W MYPAGMYPAGCY-FO    PNN180714PSG00007017                     
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    PREMIUM VEGETABLE OILS SDN BHD     P.O.BOX 39, PLO 66, JALAN TIMAH DUAPASIR GUDANG INDUSTRIAL ESTATE      
+16                    81700 PASIR GUDANG, JOHOR, MALAYSIA                                                                       
+21                    TO ORDER                                                                                                  
+26   1                 TERSNAB TARGOVISHTE LTD            CAR SIMEON STR, NO. 50             7700 TARGOVISHTE BULGARIA          
+26   1                 TEL: +3596016067                   FAX: +35960163402                                                     
+41   001                 N000680BG BAG            0000171224000000000000020400                            000017122400          
+44   001  NO MARK                                                                                                               
+47   0011X20'GP CONTAINER SAID TO     CONTAIN:                      17.000 METRIC TONS            HDYROGENATED PALM STEARIN     
+47   001PACKED IN 680 BAGS OF         EACH 25 KGS NETT WEIGHT       (TOTAL: 17.000 METRIC TONS)                                 
+51   001CSLU1001410N7522140   2210NFCY-FO    N000680BG      17122402000000020400      GC171224007522140                         
+61   01CAS                                        000001000EUR000000000500020F 0000000005000+000000000000   0000000000000 C     
+61   02DOC                                        000001000MYR0000000160000LS  0000000160000+000000000000   0000000000000 P     
+61   03ENS                                        000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   04PSF                                        000001000EUR000000001000020F 0000000010000+000000000000   0000000000000 C     
+61   05SLF                                        000001000MYR000000001500020F 0000000015000+000000000000   0000000000000 P     
+61   06THC                                        000001000MYR000000035000020F 0000000350000+000000000000   0000000000000 P     
+61   07OFT                                        000001000USD000000115000020F 0000001150000+000000000000   0000000000000 PY    
+71   CSO NUMBER: PSG00007017V2                                                                                                  
+71   ON CY-FO TERM                      OCEAN FREIGHT PREPAID              SHIPPER'S LOAD STOW COUNT AND SEAL                   
+71                                                                         COSCO SHIPPING LINES (GREECE) S.A.                   
+71   85,AKTI MIAOULI & 2,FLESSA STR     18538 PIRAEUS GREECE               PHONE: 30-210-4290810                                
+71   FAX:   30-210-4290808                                                                                                      
+71   PREPAID                                                                                                                    
+74        180714                                                                                                                
+12   COSU6172565780                  QYA   CSCL LE HAVRE       122W IDSURIDSURCY-FO    PNN180722GAA18078                        
+13   BGVARBGVARVARNA, BULGARIA                                                                                                  
+16                    PT.PABRIK KERTAS TJIWI KIMIA TBK   SINAR MAS LAND PLAZA, MENARA 2,    7TH FLOOR, JL. M.H THAMRIN NO. 51,  
+16                    JAKARTA 10350, INDONESIA                                                                                  
+21                    EMA LTD.                           160 DOIRAN STREET,                 5800 PLEVEN, BULGARIA               
+26   1                 NETSYS LOGISTICS LTD.              3 NIDERKE STR., 6TH FLOOR, APT 6D  9002 VARNA, *)                     
+41   001                 N000057PL PALLET         0000258991000000000000000000                            000025899189          
+44   001  NO SHIPPING         MARK                                                                                              
+47   00157 PALLET OF                  SEMI HIGH SMOOTHNESS WOODFREE VAT NO. BG030113826           *) TEL: +359 52 699670)       
+47   001TRANSHIPMENT AT SINGAPORE ON  VESSEL ITAL USODIMARE 1334 124G.W = 25.899189 MT            N.W = 24.572520 MT            
+51   001MAGU5270467NID302783  4510NFCY-FO    N000057PL      25899104000000000000      GC25899189ID302783                        
+61   01CAS                                        000001000EUR000000000500040F 0000000005000+000000000000   0000000000000 C     
+61   02ENS                                        000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   03PSF                                        000001000EUR000000001000040F 0000000010000+000000000000   0000000000000 C     
+61   04SCF                                        000001000IDR000021000000040F 0000210000000+000000000000   0000000000000 P     
+61   05OFT                                        000001000USD000000193000040F 0000001930000+000000000000   0000000000000 PY    
+71   CSO NUMBER: GAA18078                                                                                                       
+71   OCEAN FREIGHT PREPAID              ON CY-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL                   
+71   BASIC FREIGHT PREPAID              COSCO SHIPPING LINES (GREECE) S.A. 85,AKTI MIAOULI & 2,FLESSA STR                       
+71   18538 PIRAEUS GREECE                                                                                                       
+71                                                                         PHONE: 30-210-4290810                                
+71   FAX:   30-210-4290808                                                                                                      
+71   FREIGHT: BASIC FREIGHT PREPAID                                                                                             
+71   PAYMENT METHOD = PREPAID                                                                                                   
+74        180722                                                                                                                
+12   COSU6172565790                  QYA   CSCL LE HAVRE       122W IDSURIDSURCY-FO    PNN180722GAA18078                        
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    PT.PABRIK KERTAS TJIWI KIMIA TBK   SINAR MAS LAND PLAZA, MENARA 2,    7TH FLOOR, JL. M.H THAMRIN NO. 51,  
+16                    JAKARTA 10350, INDONESIA                                                                                  
+21                    EMA LTD                            160 DOIRAN STREET                  5800 PLEVEN BULGARIA                
+26   1                 NETSYS LOGISTICS LTD.              3 NIDERKE STR., 6TH FLOOR, APT 6D  9002 VARNA, *)                     
+41   001                 N000191PK PACKAGE        0000759922000000000000000000                            000075992267          
+44   001  NO SHIPPING         MARK                                                                                              
+47   0013 X 40 CONTAINER              191 PACKAGE (94 ROLL + 97     PALLET) OF                    WOODFREE OFFSET PAPER         
+47   001SEMI HIGH SMOOTHNESS CARD     VAT NO: BG030113826           *) TEL: +359 52 699670)       .                             
+47   001TRANSHIPMENT AT SINGAPORE ON  VESSEL ITAL USODIMARE 1334 124G.W = 75.992267 MT            N.W = 73.345890 MT            
+51   001CSLU6153761NID303085  4510NFCY-FO    N000061PK      25829604000000000000      GC25829693ID303085                        
+51   001DFSU7407692NID303084  4510NFCY-FO    N000062PK      25238304000000000000      GC25238387ID303084                        
+51   001TLLU4369415NID303086  4510NFCY-FO    N000068PK      24924104000000000000      GC24924187ID303086                        
+61   01CAS                                        000003000EUR000000000500040F 0000000015000+000000000000   0000000000000 C     
+61   02ENS                                        000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   03PSF                                        000003000EUR000000001000040F 0000000030000+000000000000   0000000000000 C     
+61   04SCF                                        000003000IDR000021000000040F 0000630000000+000000000000   0000000000000 P     
+61   05OFT                                        000003000USD000000193000040F 0000005790000+000000000000   0000000000000 PY    
+71   CSO NUMBER: GAA18078                                                                                                       
+71   OCEAN FREIGHT PREPAID              ON CY-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL                   
+71   BASIC FREIGHT PREPAID              COSCO SHIPPING LINES (GREECE) S.A. 85,AKTI MIAOULI & 2,FLESSA STR                       
+71   18538 PIRAEUS GREECE                                                                                                       
+71                                                                         PHONE: 30-210-4290810                                
+71   FAX:   30-210-4290808                                                                                                      
+71   FREIGHT: BASIC FREIGHT PREPAID                                                                                             
+71   PAYMENT METHOD = PREPAID                                                                                                   
+74        180722                                                                                                                
+12   COSU6175595270                  S4A   CMA CGM BLUE WHALE  028W PKQCTPKQCTCY-FO    PNN180729KHI03186024                     
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    MINEX INTERNATIONAL,               PLOT # 400 SOUTH STREET 5, SECTOR  7A KORANGI INDUSTRIAL AREA          
+16                    KARACHI  74900  PAKISTAN                                                                                  
+21                    TO THE ORDER OF                    BANK AL HABIB LIMITED                                                  
+26   1                 NOREX TRADE EOOD                   144 HRISTO BOTEV STR               SOFIA BULGARIA                     
+41   001                 N002000BG BAG            0000503000000050000000000000                            000050300000          
+44   001  SALT                                                                                                                  
+47   001SHIPPER LOAD STOW AND COUNT   02 X 20' DRY CONTAINERS       SAID TO CONTAIN               2X20 FCL 50 MT 2000 BAGS      
+47   00150 MT SALT                    PACKED IN 25 KG WPP BAGS      HS CODE: 2501.0020            FORM E NO:AHB-2018-0000074361 
+47   001DATED:16 JUL 2018             GROSS WT:50.300 MT            NET WT:50.000 MT                                            
+51   001FCIU4850580N214096    2210NFCY-FO    N001000BG      25150002000000000000      GC25150000214096                          
+51   001CBHU4126508N214375    2210NFCY-FO    N001000BG      25150002000000000000      GC25150000214375                          
+61   01CAS                                        000002000EUR000000000500020F 0000000010000+000000000000   0000000000000 C     
+61   02ENS                                        000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   03PSF                                        000002000EUR000000001000020F 0000000020000+000000000000   0000000000000 C     
+61   04OFT                                        000002000USD000000070000020F 0000001400000+000000000000   0000000000000 PY    
+71   CSO NUMBER: KHI03186024V3                                                                                                  
+71   ON CY-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL OCEAN FREIGHT PREPAID                                
+71   PREPAID                                                                                                                    
+74        180729                                                                                                                
+12   COSU6175595610                  S4A   CMA CGM BLUE WHALE  028W PKQCTPKQCTCY-FO    PNN180729KHI05937001                     
+13   BGVARBGVARVARNA, BULGARIA                                                                                                  
+16                    RETEX GLOBAL (PVT) LIMITED,        PLOT NO. 4-7 & 12-15, SECTOR D-IV, PHASE II, KARACHI EXPORT            
+16                    PROCESSING ZONE,                                                                                          
+21                    M/S EUROTEX LTD                    PECHATNITSA IZTOK BUILDING         WEST INDUSTRIAL ZONE                
+21                    9009 VARNA, BULGARIA                                                                                      
+26   1                 M/S EUROTEX LTD                    PECHATNITSA IZTOK BUILDING         WEST INDUSTRIAL ZONE               
+26   1                 9009 VARNA, BULGARIA                                                                                     
+41   001                 N000650PK PACKAGE        0000165410000000000000000000                            000016541000          
+44   001                                                                                                                        
+47   001SHIPPER LOAD STOW AND COUNT   01 X 40' HIGH CUBE CONTAINER  SAID TO CONTAIN               USED CLOTHING                 
+47   001STC 650 PACKAGES              NET WT: 16,216 KGS            GROSS WT: 16,541 KGS          INVOICE NO. SHC-13-2018-19    
+47   001FAC NO. 287 /12057            DT: 18-07-2018                14 DAYS FREE DEMURRAGE AND    DETENTION ALLOWED AT          
+47   001DESTINATION (SSEA0740087)     FREIGHT PREPAID                                                                           
+51   001FCIU9560027N0969871   4510NFCY-FO    N000650PK      16541004000000000000      GC165410000969871                         
+61   01CAS                                        000001000EUR000000000500040F 0000000005000+000000000000   0000000000000 C     
+61   02ENS                                        000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   03PSF                                        000001000EUR000000001000040F 0000000010000+000000000000   0000000000000 C     
+61   04OFT                                        000001000USD000000100000040F 0000001000000+000000000000   0000000000000 PY    
+71   CSO NUMBER: KHI05937001V4                                                                                                  
+71   ON CY-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL OCEAN FREIGHT PREPAID                                
+71   PREPAID                                                                                                                    
+74        180729                                                                                                                
+12   COSU6180517860                  RVS   EVER SIGMA          081W CNQINCNQINCY-FO    PNN180707GAC18058                        
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    SAILUN JINYU GROUP (HONGKONG)      CO., LIMITED                       MSH4800 RM 1007, 10/F., HO KING     
+16                    CTR.,NO.2-16 FA YUEN ST., MONGKOK, HONG KONG                                                              
+21                    PRIMEX LTD.                        1,T.ZANGOV STR.                    SHUMEN 9700,BULGARIA                
+21                    TEL:+359 54 832 500                FAX:+359 54 832 500*                                                   
+26   1                 PRIMEX LTD.                        1,T.ZANGOV STR.                    SHUMEN 9700,BULGARIA               
+26   1                 TEL:+359 54 832 500                FAX:+359 54 832 500*                                                  
+26   2                 *WEB:WWW.PRIMEX-BG.COM                                                                                   
+41   001                 N007239PC PIECE          0000811656000000000000490000                            000081165630          
+44   001  900207300                                                                                                             
+47   001SAILIN BRAND TYRES                                                                                                      
+51   001FSCU8763461NW118516   4510NFCY-FO    N001008PC      10890904000000070000      GC10890980W118516                         
+51   001TCNU1209789NW118460   4510NFCY-FO    N001118PC      12753204000000070000      GC12753260W118460                         
+51   001TGHU8930417NW118566   4510NFCY-FO    N001025PC      12612204000000070000      GC12612220W118566                         
+51   001CBHU9426200NW118426   4510NFCY-FO    N001087PC      11493504000000070000      GC11493540W118426                         
+51   001CBHU9084257NW118132   4510NFCY-FO    N001122PC      10658904000000070000      GC10658910W118132                         
+51   001CCLU7192421NW119256   4510NFCY-FO    N000869PC      11891804000000070000      GC11891840W119256                         
+51   001RFCU5039361NW118515   4510NFCY-FO    N001010PC      10864804000000070000      GC10864880W118515                         
+61   01BKF                                   CNZNZ000001000CNY0000000100000LS  0000000100000+000000000000   0000000000000 P     
+61   02CAS                                        000007000EUR000000000500040F 0000000035000+000000000000   0000000000000 C     
+61   03DOC                                   CNZNZ000001000CNY0000000500000LS  0000000500000+000000000000   0000000000000 P     
+61   04ENS                                   CNZNZ000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   05PSF                                        000007000EUR000000001000040F 0000000070000+000000000000   0000000000000 C     
+61   06SLF                                   CNZNZ000007000CNY000000003000040F 0000000210000+000000000000   0000000000000 P     
+61   07THC                                   CNZNZ000007000CNY000000103400040F 0000007238000+000000000000   0000000000000 P     
+61   08OFT                                   CNZNZ000007000USD000000155000040F 0000010850000+000000000000   0000000000000 PY    
+71   CSO NUMBER: GAC18058                                                                                                       
+71   ON CY-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL OCEAN FREIGHT PREPAID                                
+71   PREPAID                                                                                                                    
+74        180707                                                                                                                
+12   COSU6182441470W                 RVS   EVER SIGMA          081W CNLYGCNLYGCY-FO    CNN180705VRA00039016V                    
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    GLOBELINK-TRANS (TIANJIN)          INTERNATIONAL FORWARDING CO., LTD. QINGDAO BRANCH                      
+16                    17H,EVERBRIGHT INTERNATIONAL       FINANCIAL CENTRE,*                                                     
+21                    GLOBELINK BULGARIA LTD.            10, DEVNYA STR., FLOOR 4, OFFICE 10VARNA 9000, BULGARIA                
+21                    VAT NO: BG201744420**                                                                                     
+26   1                 SAME AS CONSIGNEE                                                                                        
+41   001                 N000606PC PIECE          0000153225000000000000060000                            000015322580          
+44   001  N/M                                                                                                                   
+47   001TYRES                         *NO.67,HONGKONG               WEST ROAD,                    QINGDAO266071,                
+47   001CHINA                         TEL: 80902656                 /57                           FAX: 80902628                 
+47   001/29/30                        **TEL:+35952                  681071                        FAX:+3595268                  
+47   0011070                                                                                                                    
+51   001TEMU8208721N6465989   4510NFCY-FO    N000606PC      15322504000000060000      GC153225806465989                         
+61   01BKF                                        000001000CNY000000007000040F 0000000070000+000000000000   0000000000000 P     
+61   02CAS                                        000001000EUR000000000500040F 0000000005000+000000000000   0000000000000 C     
+61   03DOC                                        000001000CNY0000000500000LS  0000000500000+000000000000   0000000000000 P     
+61   04ENS                                        000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   05PSF                                        000001000EUR000000001000040F 0000000010000+000000000000   0000000000000 C     
+61   06SLF                                        000001000CNY000000003000040F 0000000030000+000000000000   0000000000000 P     
+61   07THC                                        000001000CNY000000111200040F 0000001112000+000000000000   0000000000000 P     
+61   08OFT                                        000001000USD000000230000040F 0000002300000+000000000000   0000000000000 CY    
+71   CSO NUMBER: VRA00039016V1                                                                                                  
+71   SEAWAY BILL ISSUED                                                                                                         
+71   ON CY-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL OCEAN FREIGHT COLLECT                                
+71   COLLECT                                                                                                                    
+71   HS CODE                                                                                                                    
+74        180705                                                                                                                
+12   COSU6182442210W                 S3D   TALOS               016W CNLYGCNLYGCY-FO    CNN180705VRA00205001                     
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    SHANGHAI SYNTRANS INTERNATIONAL    LOGISTICS CO.,LTD.                 16/F DINGLI BUILDING,               
+16                    NO.235 CHANGYANG                   ROAD,SHANGHAI,CHINA 200082*                                            
+21                    BON MARINE LTD.                    3 VARDAR STR., 9000 VARNA,BULGARIA TEL.:+359 52 687 182                
+21                    FAX:+359 52 632 149                E-MAIL:A.ANGELOV@BONMAR.BG                                             
+26   1                 BON MARINE LTD.                    3 VARDAR STR., 9000 VARNA,BULGARIA TEL.:+359 52 687 182               
+26   1                 FAX:+359 52 632 149                E-MAIL:A.ANGELOV@BONMAR.BG                                            
+26   2                 *TEL:61226588                      FAX:61303186                                                          
+41   001                 N000740BG BAG            0000186480000000000000020000                            000018648000          
+44   001  N/M                                                                                                                   
+47   001SODIUM TRIPOLYPHOSPHATE                                                                                                 
+51   001CSNU1321406NQ98576    2210NFCY-FO    N000740BG      18648002000000020000      GC18648000Q98576                          
+61   01BKF                                        000001000CNY000000007000020F 0000000070000+000000000000   0000000000000 P     
+61   02CAS                                        000001000EUR000000000500020F 0000000005000+000000000000   0000000000000 C     
+61   03DOC                                        000001000CNY0000000500000LS  0000000500000+000000000000   0000000000000 P     
+61   04ENS                                        000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   05HCS                                        000001000USD000000010000020F 0000000100000+000000000000   0000000000000 C     
+61   06PSF                                        000001000EUR000000001000020F 0000000010000+000000000000   0000000000000 C     
+61   07SLF                                        000001000CNY000000003000020F 0000000030000+000000000000   0000000000000 P     
+61   08THC                                        000001000CNY000000071500020F 0000000715000+000000000000   0000000000000 P     
+61   09OFT                                        000001000USD000000145000020F 0000001450000+000000000000   0000000000000 CY    
+71   CSO NUMBER: VRA00205001V1                                                                                                  
+71   SEAWAY BILL ISSUED                                                                                                         
+71   ON CY-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL OCEAN FREIGHT COLLECT                                
+71   COSCO SHIPPING LINES (GREECE) S.A. 85,AKTI MIAOULI & 2,FLESSA STR     18538 PIRAEUS GREECE                                 
+71                                                                                                                              
+71                                      PHONE: 30-210-4290810              FAX:   30-210-4290808                                
+71   COLLECT                                                                                                                    
+74        180705                                                                                                                
+12   COSU6187689270                  S4A   CMA CGM BLUE WHALE  028W INNVAINNVACY-FO    PNN180802BOM12047001                     
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    DODHIA SYNTHETICS LIMITED          DODHIA HOUSE, NEW MAVJI COMPOUND,  NARPOLI, BHIWANDI, DIST. THANE,     
+16                    MAHARASTRA, INDIA                                                                                         
+21                    TO ORDER                                                                                                  
+26   1                 VANDEN BERGHE ROGER NV             BARMBEEKSTRAAT 10                  8791 BEVEREN (LEIE)                
+26   1                 BELGIE                                                                                                   
+41   001                 N000024PL PALLET         0000183277000000000000000000                            000018327790          
+44   001  ROGER                                                                                                                 
+47   0011 X 40 FCL CONTAINER STC      TOTAL 24 PALLETS              TWENTY FOUR PALLETS ONLY.     16771.02 KGS MULTIPLE YARN OF 
+47   001POLYESTER HS CODE 5402 6200   AS PER PROFORMA INVOICE EXP18/000123R1 DD 25.06.2018        IRREVOCABLE L/C NUMBER        
+47   001(DC NO.)-VLAALI0006431        DATE-180702                   INV NO : U4/00124/18-19       DT: 30.07.2018                
+47   001S/BILL NO : 6556971           DT: 30.07.2018                NET WT : 16771.02 KGS         FREIGHT PREPAID               
+47   001H.S.CODE 5402 6200                                                                                                      
+51   001CBHU7087072N194059    4510NFCY-FO    N000024PL      18327704000000000000      GC18327790194059                          
+61   01DOC                                        000001000INR0000003000000LS  0000003000000+000000000000   0000000000000 P     
+61   02ENS                                        000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   03SLF                                        000001000USD000000000500040F 0000000005000+000000000000   0000000000000 P     
+61   04THC                                        000001000INR000001200000040F 0000012000000+000000000000   0000000000000 P     
+61   05OFT                                        000001000USD000000090000040F 0000000900000+000000000000   0000000000000 PY    
+71   CSO NUMBER: BOM12047001V1                                                                                                  
+71   OCEAN FREIGHT PREPAID              ON CY-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL                   
+71   WEIGHT DECLARED BY SHIPPER         COSCO SHIPPING LINES (GREECE) S.A. 85,AKTI MIAOULI & 2,FLESSA STR                       
+71   18538 PIRAEUS GREECE                                                                                                       
+71                                                                         PHONE: 30-210-4290810                                
+71   FAX:   30-210-4290808                                                                                                      
+71   PREPAID                                                                                                                    
+74        180802                                                                                                                
+12   COSU6189234660  2314            QYA   CSCL LE HAVRE       122W TWKAOTWKAOCY-FO    CNN180723VRA00141002                     
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    AWEA MECHANTRONIC COMPANY LIMITED  ON BEHALF OF HENDRY TRADING LTD.                                       
+21                    MACHINE COMMERCE LTD.              11TH KOZANOVSKA STR.               4230 ASSENOVGRAD BULGARIA BULGARIA  
+26   1                 SEAWAY LOGISTICS LTD.              26 RAIKO ALEXIEV STR.,             1359 SOFIA,BULAGRIA                
+26   1                 TEL:359 2 9717376                                                                                        
+41   001                 N000006PK PACKAGE        0000261000000000000000195000                            000026100000          
+44   001  NO MARK                                                                                                               
+47   001AWEA BRIDGE TYPE              VERTICAL MACHINING CENTER                                                                 
+51   001CCLU7386999NCOSA1253704510NFCY-FO    N000002PK      05100004000000065000      GC05100000COSA125370                      
+51   001BMOU4844418NCOSA1253754510NFCY-FO    N000002PK      04400004000000065000      GC04400000COSA125375                      
+51   001CCLU7233264NCOSA1253294510NFCY-FO    N000002PK      16600004000000065000      GC16600000COSA125329                      
+41   002                 N000001WC WOODEN CASE    0000253000000000000000000000                            000025300000          
+44   002  VARNA BULGARIA      C/NO.1/1            AWEA                MECHANTRONIC        CO., LTD            MADE IN TAIWAN    
+44   002  DM:                 1068X274X290CM      N.W.:21000KGS       G.W.:25300KGS                                             
+47   002AWEA BRIDGE TYPE              VERTICAL MACHINING CENTER                                                                 
+47   002AW CARGO - L:106.800 METER  W:27.400 METER  H:29.000 METER                                                              
+51   002CAIU5722538NNIL       4364NFCY-FO    N000001WC      25300004000000000000      AW25300000NIL                             
+61   01CAS                                        000001000EUR000000000500040F 0000000005000+000000000000   0000000000000 C     
+61   02CAS                                        000003000EUR000000000500040F 0000000015000+000000000000   0000000000000 C     
+61   03ENS                                        000001000USD0000000025000LS  0000000025000+000000000000   0000000000000 P     
+61   04PSF                                        000001000EUR000000001000040F 0000000010000+000000000000   0000000000000 C     
+61   05PSF                                        000003000EUR000000001000040F 0000000030000+000000000000   0000000000000 C     
+61   06THC                                        000001000TWD000000700000040F 0000007000000+000000000000   0000000000000 P     
+61   07THC                                        000003000TWD000000700000040F 0000021000000+000000000000   0000000000000 P     
+61   08OFT                                        000001000USD000000700000040F 0000007000000+000000000000   0000000000000 CY    
+61   09OFT                                        000003000USD000000190000040F 0000005700000+000000000000   0000000000000 CY    
+71   CSO NUMBER: VRA00141002V2                                                                                                  
+71   BOOKING NUMBERS:                   6189234660  6189234670             OCEAN FREIGHT COLLECT                                
+71   ON CY-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL CAIU5722538/40FL -                                   
+71   OOG-T:95CM OOG-L:15CM OOG-R:20CM OOG-F:0CM OOG-B:0CM                                                                       
+71   6189234670: COLLECT                                                                                                        
+71   6189234670: SO NO. 2216 + 2314 COMB                                                                                        
+71   COLLECT                                                                                                                    
+74        180723                                                                                                                
+12   COEU9000430240                  SVA   CSCL MARS           050E RUSPBRUSPBCY-CY    PNN180717SPB00264018                     
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    CONCORD RESOURCES LIMITED          3 ST. JAMES S SQUARE, LONDON       SW1Y 4JU, UNITED KINGDOM            
+21                    TO ORDER                                                                                                  
+26   1                 AURUBIS BULGARIA AD                INDUSTRIAL ZONE PIRDOP 2070,       BULGARIA ATTN. VLADISLAV PETROV    
+26   1                 TEL: +359 728 62218                FAX: +359 728 62660 *                                                 
+26   2                 PAC GLOBAL SERVICES (SPAIN) S.A.U. BALMES 112, 4                      08008 BARCELONA SPAIN              
+26   2                 TEL: (+34) 93 185 38 89                                                                                  
+26   3                 EMAIL: METALS.EUROPE@PACORINI.COM  *E-MAIL: VL.PETROV@AURUBIS.COM                                        
+41   001                 N000151BG BAG            0002718360000271383000000000                            000271836000          
+44   001                                                                                                                        
+44   001                                                                                                                        
+47   00110X20'STC                     COPPER ORE                    TOTAL NET WEIGHT:271 383      TOTAL GROSS WEIGHT:271 836    
+47   001TOTAL NUMBER OF PACKAGES:151  PLACE OF DELIVERY PIRDOP                                                                  
+51   001DFSU2984942N0731584   2210NFCY-CY    N000015BG      28220002000000000000      GC282200000731584                         
+51   001CSLU1934822N0695189   2210NFCY-CY    N000016BG      28093002000000000000      GC280930000695189                         
+51   001FCIU5248350N0572131   2210NFCY-CY    N000014BG      26010002000000000000      GC260100000572131                         
+51   001TCLU1948101N0731656   2210NFCY-CY    N000015BG      27628002000000000000      GC276280000731656                         
+51   001TCKU2417801N0572002   2210NFCY-CY    N000014BG      24812002000000000000      GC248120000572002                         
+51   001FCIU5257007N0576318   2210NFCY-CY    N000016BG      28300002000000000000      GC283000000576318                         
+51   001CBHU5850056N0572031   2210NFCY-CY    N000015BG      25507002000000000000      GC255070000572031                         
+51   001TGHU0195300N0731658   2210NFCY-CY    N000016BG      28019002000000000000      GC280190000731658                         
+51   001TCKU3790527N0572132   2210NFCY-CY    N000016BG      28300002000000000000      GC283000000572132                         
+51   001DFSU1221036N0731657   2210NFCY-CY    N000014BG      26947002000000000000      GC269470000731657                         
+61   01SSD                                        000010000EUR000000001500020F 0000000150000+000000000000   0000000000000 C     
+61   02OFT                                        000010000USD000000118000020F 0000011800000+000000000000   0000000000000 PY    
+71   CSO NUMBER: SPB00264018V2                                                                                                  
+71   OCEAN FREIGHT PREPAID              ON CY-CY TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL                   
+71   SHIPPED ON BOARD ON M/V DELPHIS GDANSK VOY 095S ON                    17/07/2018 IN ST. PETERSBURG                         
+71   FREIGHT: BASIC FREIGHT PREPAID                                                                                             
+71   FREIGHT: DESTINATION HAULAGE CHARGE                                                                                        
+71   FREIGHT: DESTINATION PORT CHARGES C                                                                                        
+71   FREIGHT: ORIGIN HAULAGE CHARGES PRE                                                                                        
+71   FREIGHT: ORIGIN PORT CHARGES PREPAI                                                                                        
+71   PAYMENT METHOD = PREPAID                                                                                                   
+74        180717                                                                                                                
+12   COEU9002073940W                 SVA   CSCL MARS           050E NOBRENLROTDR-FO    PNN180720OSL00466023                     
+13   BGVARBGVARVARNA,BULGARIA                                                                                                   
+16                    YARA NORGE AS                      YARA PORSGRUNN                     POSTBOKS 1123                       
+16                    3905 PORSGRUNN                                                                                            
+21                    KVS AGRO BULGARIA LTD,             39, AMI BUE, SOFIA, BULGARIA                                           
+26   1                 KVS AGRO BULGARIA LTD,             39, AMI BUE, SOFIA, BULGARIA                                          
+41   001                 N000040PL PALLET         0000489120000048000000000000                            000048912000          
+44   001                                                                                                                        
+47   001CALCINIT 25 KG BAGS           TOTAL NET WEIGHT:48.000 (MTS) TOTAL GROSS WEIGHT:48.912(MTS)                              
+51   001CSLU1401715N0046116   2210NFDR-FO    N000020PL      24456002000000000000      GC244560000046116                         
+51   001CCLU3556968N0046115   2210NFDR-FO    N000020PL      24456002000000000000      GC244560000046115                         
+61   01132                                        000048912NOK0000000006650KG  0000000325260+000000000000   0000000000000 P     
+61   02DOC                                        000001000USD0000000085000LS  0000000085000+000000000000   0000000000000 P     
+61   03SSD                                        000002000EUR000000001500020F 0000000030000+000000000000   0000000000000 C     
+61   04OFT                                        000002000EUR000000085000020F 0000001700000+000000000000   0000000000000 PY    
+71   CSO NUMBER: OSL00466023V1                                                                                                  
+71   SEAWAY BILL ISSUED                                                                                                         
+71   OCEAN FREIGHT PREPAID              ON DR-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL                   
+71   COSCO SHIPPING LINES (GREECE) S.A. 85,AKTI MIAOULI & 2,FLESSA STR     18538 PIRAEUS GREECE                                 
+71   PHONE: 30-210-4290810              FAX:   30-210-4290808                                                                   
+74        180720                                                                                                                
+12   COEU9003523180W                 UEO   HERON HUNTER        007S NLNIUNLROTDR-FO    CNN180723VRA00055001                     
+13   BGVARBGVARVARNA                                                                                                            
+16                    DE HAAN PETFOOD                    PRODUCTIEWEG 3                     2421LY NIEUWKOOP THE, NETHERLANDS   
+16                    NL823397117B01                                                                                            
+21                    ILTEX LTD                          PARCEL 127 005                     9144 SLANCHEVO                      
+21                    VARNAREGION BULGARIA               BG 103790433                                                           
+26   1                 ILTEX LTD                          PARCEL 127 005                     9144 SLANCHEVO                     
+26   1                 VARNAREGION BULGARIA               BG 103790433                                                          
+41   001                 N000120PL PALLET         0001328500000113969000000000                            000132850000          
+44   001                                                                                                                        
+47   001PET FOOD IN TINS              OPDER: DE 18-05,NR.1          2184 TRAYS CAT FOOD 410 GR    INVOICE:80369                 
+47   001COUNTRY OF ORIGIN: THE        NETHERLANDS                   HS CODE 23091011              PET FOOD IN TINS              
+47   001OPDER: DE 18-05,NR.2          2304 TRAYS CAT FOOD 810 GR    INVOICE:80370                 COUNTRY OF ORIGIN: THE        
+47   001NETHERLANDS                   HS CODE 23091011              PET FOOD IN TINS              OPDER: DE 18-05,NR.3          
+47   0012304 TRAYS CAT.FOOD 810 GR    INVOICE:80371                 COUNTRY OF ORIGIN: THE        NETHERLANDS                   
+47   001HS CODE 23091011              PET FOOD IN TINS              OPDER: DE 18-05,NR.4          2304 TRAYS CAT FOOD 810 GR    
+47   001INVOICE: 80372                COUNTRY OF ORIGIN: THE        NETHERLANDS                   HS CODE 23091011              
+47   001PET FOOD IN TINS              OPDER: DE 18-05,NR.5          1819 TRAYS CAT/DOG FOOD       410-810-1250 GR               
+47   001INVOICE:80373                 COUNTRY OF ORIGIN: THE        NETHERLANDS                   HS CODE 23091011              
+51   001CBHU6456710NBS325452  4310NFDR-FO    N000024PL      26400004000000000000      GC26400000BS325452                        
+51   001FSCU8523394NBS325445  4510NFDR-FO    N000024PL      26400004000000000000      GC26400000BS325445                        
+51   001TLLU4438007NBS325426  4510NFDR-FO    N000024PL      28834004000000000000      GC28834000BS325426                        
+51   001DFSU7291730NBS325453  4510NFDR-FO    N000024PL      24816004000000000000      GC24816000BS325453                        
+51   001TCNU2280082NBS325428  4510NFDR-FO    N000024PL      26400004000000000000      GC26400000BS325428                        
+61   01DOC                                        000001000EUR0000000035000LS  0000000035000+000000000000   0000000000000 C     
+61   02EBS                                        000001000EUR000000005000040F 0000000050000+000000000000   0000000000000 C     
+61   03EBS                                        000004000EUR000000005000040F 0000000200000+000000000000   0000000000000 C     
+61   04IHL                                        000001000EUR000000033000040F 0000000330000+000000000000   0000000000000 C     
+61   05IHL                                        000004000EUR000000033000040F 0000001320000+000000000000   0000000000000 C     
+61   06SSD                                        000001000EUR000000001500040F 0000000015000+000000000000   0000000000000 C     
+61   07SSD                                        000004000EUR000000001500040F 0000000060000+000000000000   0000000000000 C     
+61   08SSL                                        000001000EUR000000001500040F 0000000015000+000000000000   0000000000000 C     
+61   09SSL                                        000004000EUR000000001500040F 0000000060000+000000000000   0000000000000 C     
+61   10THC                                        000001000EUR000000020000040F 0000000200000+000000000000   0000000000000 C     
+61   11THC                                        000004000EUR000000020000040F 0000000800000+000000000000   0000000000000 C     
+61   12OFT                                        000001000EUR000000033000040F 0000000330000+000000000000   0000000000000 C     
+61   13OFT                                        000004000EUR000000033000040F 0000001320000+000000000000   0000000000000 C     
+71   CSO NUMBER: VRA00055001V2                                                                                                  
+71   SEAWAY BILL ISSUED                                                                                                         
+71   OCEAN FREIGHT COLLECT              ON DR-FO TERM                      SHIPPER'S LOAD STOW COUNT AND SEAL                   
+74        180723                                                                                                                
+99   000376                                                                                                                     

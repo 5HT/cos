@@ -1,0 +1,8 @@
+{application, cos,
+ [{description, "COS China Ocean Shipping Protocol"},
+  {vsn, "0.7.0"},
+  {registered, []},
+  {applications, [kernel,stdlib]},
+  {mod, { cos, []}},
+  {env, []}
+ ]}.

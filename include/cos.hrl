@@ -1,0 +1,24 @@
+-ifndef(COS_HRL).
+-define(COS_HRL, true).
+
+-record('COS.00',{id=[],type=[],desc=[],payer=[],sender=[],receivers=[],time=[],time_id=[],sender_c=[],receivers_c=[],creator=[],creator_c=[],vsn=[],option=[],filler=[]}).
+-record('COS.11',{id=[],line_mark=[],vessel_code=[],vessel_name=[],voyage=[],arrival=[],saling=[],ship=[],call=[]}).
+-record('COS.12',{id=[],blno=[],sono=[],pre_code=[],pre_name=[],pre_voyage=[],receipt=[],loading=[],cfs=[],prepaid=[],trans=[],empty=[],date=[],scno=[],qua=[]}).
+-record('COS.13',{id=[],discharge=[],delivery_code=[],delivery_name=[],final_code=[],final_name=[],options=[]}).
+-record('COS.16',{id=[],code=[],ship=[]}).
+-record('COS.21',{id=[],code=[],cosigners=[]}).
+-record('COS.26',{id=[],code=[],no=[],notify=[]}).
+-record('COS.41',{id=[],no=[],code=[],dg=[],pkgs=[],kind=[],desc=[],gross=[],net=[],measure=[]}).
+-record('COS.42',{id=[],no=[],class=[],label=[],contact=[]}).
+-record('COS.43',{id=[],no=[],class=[],page=[],unno=[],label=[],flash,ems,med,sign,sign2,temp={0,0,0}}).
+-record('COS.44',{id=[],no=[],marks=[]}).
+-record('COS.47',{id=[],no=[],desc=[]}).
+-record('COS.51',{id=[],no=[],container=[],soc=[],seal=[],cnt=[],dg=[],status=[],item=[],sid=[],packages=[],kind=[],cargo=[],tare=[],measure=[],location=[]}).
+-record('COS.61',{id=[],no=[],code=[],remark=[],payable=[],quantity=[],currency=[],rate=[],units=[],amount=[],sign=[],xchg_rate=[],xchg_currency=[],xchg_amount=[],xchg_sign=[],prepaid=[]}).
+-record('COS.71',{id=[],remark=[]}).
+-record('COS.72',{id=[],remark=[]}).
+-record('COS.73',{id=[],remark=[]}).
+-record('COS.74',{id=[],place=[],date=[],prepaid=[],payable=[]}).
+-record('COS.99',{id=[],records=[]}).
+
+-endif.
