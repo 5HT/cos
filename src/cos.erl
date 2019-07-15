@@ -20,9 +20,9 @@ main() ->
 
 decode(<<Id:2/binary,Type:3/binary,Desc:20/binary,Payer:2/binary,Sender:8/binary,
          Receiver:8/binary,Receiver1:8/binary,Receiver2:8/binary,Receiver3:8/binary,
-         Receiver4:8/binary,Time:10/binary,TimeId:1/binary,SenderC:5/binary,
-         ReceiverC:5/binary,ReceiverC1:5/binary,ReceiverC2:5/binary,ReceiverC3:5/binary,
-         ReceiverC4:5/binary,FileCreator:5/binary,PortCreator:5/binary,Rest/binary>>) when Id == <<"00">> ->
+         Receiver4:8/binary,Time:10/binary,TimeId:1/binary,SenderC:5/binary,ReceiverC:5/binary,
+         ReceiverC1:5/binary,ReceiverC2:5/binary,ReceiverC3:5/binary,ReceiverC4:5/binary,
+         FileCreator:5/binary,PortCreator:5/binary,Rest/binary>>) when Id == <<"00">> ->
   #'COS.00'{id=Id,type=t(Type),desc=t(Desc),payer=t(Payer),sender=t(Sender),
             receivers=[t(Receiver),t(Receiver1),t(Receiver2),t(Receiver3),t(Receiver4)],
             time=Time, time_id=TimeId,sender_c=t(SenderC),
@@ -99,9 +99,9 @@ decode(<<Id:2/binary,Filler:3/binary,No:3/binary,Container:11/binary,
          Status:1/binary,Item:9/binary,Sid:1/binary,Pkgs:6/binary,
          Kind:8/binary,Cargo:5/binary,Tare:5/binary,Measure:5/binary,Loc:6/binary,
          Rest/binary>>) when Id == <<"51">> ->
-  #'COS.51'{id=Id,no=t(No),container=t(Container),seal=t(Seal),
-            soc=t(Soc),cnt=t(Cnt),dg=t(DG),status=t(Status),item=t(Item),sid=t(Sid),
-            packages=t(Pkgs),kind=t(Kind),cargo=t(Cargo),tare=t(Tare),measure=t(Measure),location=t(Loc)};
+  #'COS.51'{id=Id,no=t(No),container=t(Container),seal=t(Seal),soc=t(Soc),cnt=t(Cnt),dg=t(DG),
+            status=t(Status),item=t(Item),sid=t(Sid),packages=t(Pkgs),kind=t(Kind),
+            cargo=t(Cargo),tare=t(Tare),measure=t(Measure),location=t(Loc)};
 
 decode(<<Id:2/binary,Filler:3/binary,No:2/binary,Code:3/binary,Remark:35/binary,Payable:5/binary,
          Quantity:9/binary,Currency:3/binary,Rate:13/binary,Units:4/binary,Amount:3/binary,
